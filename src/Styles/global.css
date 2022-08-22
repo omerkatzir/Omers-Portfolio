@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Miriam+Libre:wght@400;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  font-family: 'Miriam Libre', sans-serif;
+
+}
+
+.DraggableDiv {
+  border: 1px solid #b5b5b5;
+  background-color: #fff;
+}
